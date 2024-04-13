@@ -1,2 +1,0 @@
-# bulut
-amme hizmeti
